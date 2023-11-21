@@ -2,7 +2,7 @@
 
 ### Navigating Preferences: An In-Depth Analysis of Amazon Customer Behaviour
 
-![download](https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/82018e89-81f1-4be5-af3c-6a7997f5d496)
+                  ![download](https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/82018e89-81f1-4be5-af3c-6a7997f5d496)
 
 
 # Overview
