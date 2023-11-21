@@ -2,7 +2,7 @@
 
 ### Navigating Preferences: An In-Depth Analysis of Amazon Customer Behaviour
 
-                  ![download](https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/82018e89-81f1-4be5-af3c-6a7997f5d496)
+  ![download](https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/82018e89-81f1-4be5-af3c-6a7997f5d496)
 
 
 # Overview
@@ -22,7 +22,7 @@ Tableau: visualisation tool
     Hypothesis: Customers who receive personalized recommendations frequently are more likely to make a purchase.
     Analysis: Correlate personalized_recommendation_frequency with add_to_cart and shopping_satisfaction.
 
-<img width="271" alt="Screenshot 2023-11-21 at 10 39 59" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/64df3a54-58b6-468d-a3d1-914905968724">
+    <img width="271" alt="Screenshot 2023-11-21 at 10 39 59" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/64df3a54-58b6-468d-a3d1-914905968724">
 
 - Browsing Habits:
 
@@ -39,7 +39,7 @@ Tableau: visualisation tool
     Hypothesis: Customers who find customer reviews important are more likely to leave a review.
     Analysis: Examine the correlation between customer_reviews_importance and review_left.
 
-<img width="543" alt="Screenshot 2023-11-21 at 10 39 27" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/5184d07e-b065-4fe3-a6b5-e4917fdf6bc2">
+    <img width="543" alt="Screenshot 2023-11-21 at 10 39 27" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/5184d07e-b065-4fe3-a6b5-e4917fdf6bc2">
 
   
 - Cart Usage:
@@ -52,16 +52,16 @@ Tableau: visualisation tool
     Hypothesis: Certain factors contribute to add to cart, analysing acording to browsing frequency.
     Analysis: Explore Browsing Frequency vs Add to cart.
   
-<img width="582" alt="Screenshot 2023-11-21 at 10 38 28" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/e5e489ad-b86d-4882-a50a-f59e064652b1">
+    <img width="582" alt="Screenshot 2023-11-21 at 10 38 28" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/e5e489ad-b86d-4882-a50a-f59e064652b1">
 
 - Customer Satisfaction:
 
     Hypothesis: Higher shopping satisfaction leads to increased service appreciation.
     Analysis: Correlate shopping_satisfaction with service_appreciation.
 
-<img width="440" alt="Screenshot 2023-11-21 at 10 34 34" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/c124e34e-5b9a-4630-9ec9-24f8caac88d9">
+    <img width="440" alt="Screenshot 2023-11-21 at 10 34 34" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/c124e34e-5b9a-4630-9ec9-24f8caac88d9">
 
-<img width="952" alt="Screenshot 2023-11-21 at 10 35 19" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/bdc2c329-8269-4cd7-bcce-2e4ea4656b26">
+    <img width="952" alt="Screenshot 2023-11-21 at 10 35 19" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/bdc2c329-8269-4cd7-bcce-2e4ea4656b26">
 
   
 - Improvement Areas:
@@ -69,7 +69,7 @@ Tableau: visualisation tool
     Hypothesis: Identifying and addressing improvement areas can enhance overall customer satisfaction.
     Analysis: Explore improvement_areas and their impact on shopping satisfaction.
   
-<img width="545" alt="Screenshot 2023-11-21 at 10 36 45" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/0e3196e9-b041-4e7f-a7cf-3a29b1ff5d8f">
+    <img width="545" alt="Screenshot 2023-11-21 at 10 36 45" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/0e3196e9-b041-4e7f-a7cf-3a29b1ff5d8f">
 
 
 # Tableu Link:
