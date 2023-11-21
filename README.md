@@ -33,9 +33,14 @@ Tableau: visualisation tool
   
 - Frequency of Purchase:
 
-    Hypothesis: Certain product search methods lead to higher conversion rates.
-    Analysis: Analyze the effectiveness of different search methods in generating add_to_cart events.
+    Hypothesis: Different Customers have distinct priorities related to the frequency of purchase.
+    Analysis: Analyze the different times of purchase made by customer and by age.
   
+    <img width="453" alt="Screenshot 2023-11-21 at 10 56 54" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/193cb448-a5ee-4f0d-b7c9-4a13b313aa7d">
+
+    <img width="476" alt="Screenshot 2023-11-21 at 10 57 04" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/f49c8356-66e7-4fe0-b873-2378d1672ed5">
+
+
 - Customer Reviews:
 
     Hypothesis: Customers who find customer reviews important are more likely to leave a review.
