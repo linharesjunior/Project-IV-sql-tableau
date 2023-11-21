@@ -38,7 +38,8 @@ Tableau: visualisation tool
   
     <img width="453" alt="Screenshot 2023-11-21 at 10 56 54" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/193cb448-a5ee-4f0d-b7c9-4a13b313aa7d">
 
-    <img width="476" alt="Screenshot 2023-11-21 at 10 57 04" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/f49c8356-66e7-4fe0-b873-2378d1672ed5">
+
+     <img width="476" alt="Screenshot 2023-11-21 at 10 57 04" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/f49c8356-66e7-4fe0-b873-2378d1672ed5">
 
 
 - Customer Reviews:
