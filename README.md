@@ -12,7 +12,9 @@ This dataset has been analyzed to dig deeper into the behavioral patterns of Ama
 # Resources 
 
 Python: data exploration
+
 MySQL: queries 
+
 Tableau: visualisation tool
 
 # Hypotheses and Analysis
