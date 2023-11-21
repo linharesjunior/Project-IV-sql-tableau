@@ -71,6 +71,16 @@ Tableau: visualisation tool
   
     <img width="545" alt="Screenshot 2023-11-21 at 10 36 45" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/0e3196e9-b041-4e7f-a7cf-3a29b1ff5d8f">
 
+# Conclusion
+
+In conclusion, the analysis of Amazon customer behavior reveals several key insights. Firstly, customers, for the most part, do not heavily rely on Amazon recommendations when making purchases, with the majority making such purchases infrequently. Age-wise, individuals in their 20s emerge as the most active purchasers across different frequency categories.
+
+When examining browsing behavior, there is a notable trend among individuals who browse a few times a week or a few times a month—they tend to add items to their cart. However, a smaller segment of this demographic refrains from adding items to their cart.
+
+Gender preferences indicate that women appreciate product recommendations the most, while men prioritize a diverse product selection. Surprisingly, there is no clear correlation between customers who value product reviews and those who actively leave reviews.
+
+To enhance customer experience, the focus should be on improving customer service responsiveness, ensuring product quality and accuracy, minimizing packing waste, and optimizing shipping speed and reliability. Addressing these improvement areas can contribute to a more satisfying and efficient shopping experience for Amazon customers.
+
 
 # Tableu Link:
 
