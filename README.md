@@ -36,13 +36,8 @@ Tableau: visualisation tool
     Hypothesis: Different Customers have distinct priorities related to the frequency of purchase.
     Analysis: Analyze the different times of purchase made by customer and by age.
   
-    <img width="453" alt="Screenshot 2023-11-21 at 10 56 54" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/193cb448-a5ee-4f0d-b7c9-4a13b313aa7d">
-
-
-
-
-    <img width="476" alt="Screenshot 2023-11-21 at 10 57 04" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/f49c8356-66e7-4fe0-b873-2378d1672ed5">
-
+    <img width="489" alt="Screenshot 2023-11-21 at 10 59 17" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/71b252dc-b3a2-4305-bc7b-e0fea0fe3ab6">
+    <img width="480" alt="Screenshot 2023-11-21 at 10 59 59" src="https://github.com/linharesjunior/Project-IV-sql-tableau/assets/146885366/114c829d-2347-47cf-ab2a-94747f785824">
 
 - Customer Reviews:
 
